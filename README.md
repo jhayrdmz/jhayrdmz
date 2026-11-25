@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jhayrdmz.github.io"><img src="https://img.shields.io/badge/Portfolio-jhayrdmz.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://jhayrdmz.github.io"><img src="https://img.shields.io/badge/Portfolio-jhayrdmz.github.io-fffff?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/jhayrdmz/"><img src="https://img.shields.io/badge/LinkedIn-jhayrdmz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dmz.gfx@gmail.com"><img src="https://img.shields.io/badge/Email-dmz.gfx%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://drive.google.com/file/d/1-jKkpWc7GGCYo_YDtkE85yuHIh_S-yft/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download%20CV-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
